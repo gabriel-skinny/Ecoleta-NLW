@@ -11,6 +11,7 @@
   - KnexJS
   - Sqlite3
   - Celebrate/Toi
+  - Multer
   
   ## Funcionalidades
 
