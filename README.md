@@ -1,7 +1,6 @@
-# Ecoleta-NLW
-Projeto feito durante o Next Level Week
+![Ilustração Ecoleta](https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png)
 
-
+<br>
 
 # Back-End
 
@@ -11,14 +10,14 @@ Projeto feito durante o Next Level Week
   - NodeJS
   - KnexJS
   - Sqlite3
-
+  
   ## Funcionalidades
 
   - Listagem de items 
   - Criação de Pontos de coleta
   - Listagem de Pontos de coleta com filtro(cidade/estado/item)
   
-  
+  <br>
   
   
   # Front-End
@@ -43,7 +42,7 @@ Projeto feito durante o Next Level Week
    ![Demo CountPages alpha](/NWL.gif)
    
   
-  
+  <br>
   
   # Mobile
   
