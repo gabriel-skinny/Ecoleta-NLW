@@ -10,12 +10,14 @@
   - NodeJS
   - KnexJS
   - Sqlite3
+  - Celebrate/Toi
   
   ## Funcionalidades
 
   - Listagem de items 
   - Criação de Pontos de coleta
   - Listagem de Pontos de coleta com filtro(cidade/estado/item)
+  - Validação de dados
   
   <br>
   
