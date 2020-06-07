@@ -1,0 +1,21 @@
+
+
+.sucess-container{
+    background-color: #000;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sucess-container h1{
+    color: #fff;
+}
+
+.sucess-container svg{
+    margin-bottom: 30px;
+}
